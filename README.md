@@ -30,7 +30,7 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
     - Güncellenecek..
   - [afetharita.com-whatsapp-entegrasyon](https://github.com/acikkaynak/deprem-yardim-whatsapp)
     - Güncellenecek..
-  - [afetharita.com-twitter-bot](https://github.com/acikkaynak/afet-yardim-bot)
+  - [afetharita.com-twitter-bot](https://github.com/acikkaynak/afet-yardim-twitter-bot)
   Belirlenmiş olan Twit ID 'lerine RT atmak için yazılacak bot
     - Go
 - [Twitter veri çekme için Keyword (Anahtar Kelime) Listesi](https://docs.google.com/spreadsheets/d/1_w1akARJIKzCxMQnlv9ZObM7m-yXu_XJn-_SvjR6j74/edit)
