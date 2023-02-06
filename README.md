@@ -56,6 +56,19 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 
 - Google Form, Google Docs (Basit inputlardan oluşan durum bildirimi için form)
 
+## Yardım Ağı Projesi
+
+### Yayına alınan adresler
+- Henüz belirlenmedi!
+
+### Genel bilgilendirme ve bağlantılar
+- [Workflow](https://excalidraw.com/#room=b09286c9041a10c59719,JnU6aU-5IAvXhmTEkYW2IA)
+- [Tasarım süreci](https://www.figma.com/file/ggMF14osmhGOvKvS0VKuvQ/Yard%C4%B1m-A%C4%9F%C4%B1-App?node-id=0%3A1&t=lnWdXzRpwUmBurZd-1) (Figma)
+
+### Kullanılan Teknoloji ve Sistemler
+- Flutter (Web)
+- Google Firebase & Lambda (Cloud Function) & Firestore
+
 ## 3.Parti geliştirmeler
 
 ### Image to Text Adres OCR
