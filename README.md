@@ -32,6 +32,7 @@
 - Veriler
   - [Bazı çekilen Tweetler](https://docs.google.com/spreadsheets/d/1GX_37xMMvU-lcMz4XI0uLYPUV6LiZtn9EZOGSwqPuZA)
   - [depremyardim.com-json-data](https://www.depremyardim.com/json.php)
+  - [Veri Toplayıcılar](https://docs.google.com/spreadsheets/d/11oiJTFlDLKd7Ykuib4q4J9UCZ3QvB3SgCTrrXISz484/edit) (Google Spradsheets)
 
 ### Kullanılan Teknoloji ve Sistemler
 - **Frontend:**  Next.js, React / Deployment: Vercel
