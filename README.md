@@ -44,7 +44,7 @@ https://excalidraw.com/#room=0571f83dc3c3d9eb9fb8,IdGc97dCxjdYsVsZ2NTEiQ
 
 ## Ben İyiyim Projesi
 
-### Yayına alınan adresler:
+### Yayına alınan adresler
 - http://beniyiyim.com/
 
 ### Kullanılan Teknoloji ve Sistemler
