@@ -1,4 +1,7 @@
-# Deprem Yardım
+# Deprem Yardım Projesi
+
+Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklardan gelen tüm yardım çağrılarını topluyoruz ve bu veriyi sahada kullanılmak üzere anlamlı, rafine hale getiriyoruz. Amacımız bilgi teknolojilerini kullanarak ilgili kurum ve STK'lara yardımcı olmak ve afet zamanlarında açık bir veri platformu sağlamak.
+
 
 ## Veri Girişi
 - https://www.depremyardim.com/
