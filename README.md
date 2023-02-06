@@ -3,10 +3,6 @@
 ## Veri Girişi
 - https://www.depremyardim.com/
 
-- Image to Text Adres OCR
-  - Local: https://github.com/cobanov/deprem-ocr
-  - Online: https://huggingface.co/spaces/mertcobanov/deprem-ocr
-
 ## Afet Harita Projesi
 
 ### Yayına alınan adresler
@@ -53,3 +49,10 @@
 ### Kullanılan Teknoloji ve Sistemler
 
 - Google Form, Google Docs (Basit inputlardan oluşan durum bildirimi için form)
+
+## 3.Parti geliştirmeler
+
+### Image to Text Adres OCR
+Resimde yer alan adres bilgilerini yazıya çevirme kütüphanesi
+- Kullanılan Teknolojiler: Python
+  - [Github Repo](https://github.com/cobanov/deprem-ocr) [(Canlı)](https://huggingface.co/spaces/mertcobanov/deprem-ocr)
