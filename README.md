@@ -17,6 +17,7 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 - [Discord](https://discord.gg/37MHpdPxh4)
 - [Tasarım süreci](https://www.figma.com/file/sctw6xtcdoFOfmE0gC97Ft/Deprem-Yard%C4%B1m?node-id=0%3A1&t=FUHjVXfXqqXLN5js-1) (Figma)
 - [Trello Katılım Daveti](https://trello.com/invite/b/d1rYoCUL/ATTId7774aa53af7d5ed9df79d8c32d0f6c2F7837B42/it-yardim) (Trello)
+- [Trello](https://trello.com/b/d1rYoCUL/afet-harita)
 - [GitHub Depoları](https://github.com/orgs/acikkaynak/repositories)
   - [afetharita.com-frontend](https://github.com/acikkaynak/deprem-yardim-frontend)
     Kullanılan Teknoloji ve Sistemler:
@@ -52,8 +53,12 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 ### Yayına alınan adresler
 - http://beniyiyim.com/
 
-### Kullanılan Teknoloji ve Sistemler
 
+### Genel bilgilendirme ve bağlantılar
+- [Trello](https://trello.com/b/nSajc3v7/ben-i%CC%87yiyim-app)
+
+
+### Kullanılan Teknoloji ve Sistemler
 - Google Form, Google Docs (Basit inputlardan oluşan durum bildirimi için form)
 
 ## Yardım Ağı Projesi
@@ -64,6 +69,7 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 ### Genel bilgilendirme ve bağlantılar
 - [Workflow](https://excalidraw.com/#room=b09286c9041a10c59719,JnU6aU-5IAvXhmTEkYW2IA)
 - [Tasarım süreci](https://www.figma.com/file/ggMF14osmhGOvKvS0VKuvQ/Yard%C4%B1m-A%C4%9F%C4%B1-App?node-id=0%3A1&t=lnWdXzRpwUmBurZd-1) (Figma)
+- [Trello](https://trello.com/b/RzM8Tia3/yard%C4%B1m-agi-app)
 
 ### Kullanılan Teknoloji ve Sistemler
 - Flutter (Web)
