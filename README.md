@@ -12,14 +12,15 @@
 
 ### Genel bilgilendirme ve bağlantılar
 
+- [Discord](https://discord.gg/37MHpdPxh4)
 - [Tasarım süreci](https://www.figma.com/file/sctw6xtcdoFOfmE0gC97Ft/Deprem-Yard%C4%B1m?node-id=0%3A1&t=FUHjVXfXqqXLN5js-1) (Figma)
 - [Trello Katılım Daveti](https://trello.com/invite/b/d1rYoCUL/ATTId7774aa53af7d5ed9df79d8c32d0f6c2F7837B42/it-yardim) (Trello)
 - [GitHub Depoları](https://github.com/orgs/acikkaynak/repositories)
   - [afetharita.com-frontend](https://github.com/acikkaynak/deprem-yardim-frontend)
     Kullanılan Teknoloji ve Sistemler:
-    - Next.js, React, Vercel
+    - Next.js, React, Leaflet, Vercel
   - [afetharita.com-backend](https://github.com/acikkaynak/deprem-yardim-backend)
-    - Python (Django), AWS (Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Görsellerin metine çevirilmesi)
+    - Python (Django), Postgres (PostgreSQL), Redis, AWS (Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Görsellerin metine çevirilmesi)
   - [beniyiyim.com-frontend](https://github.com/acikkaynak/ben-iyiyim-frontend)
     - Google Forms, Spreadsheet
   - [afetharita.com-data](https://github.com/acikkaynak/deprem-yardim-data)
@@ -37,7 +38,7 @@
 ### Kullanılan Teknoloji ve Sistemler
 - **Frontend:**  Next.js, React / Deployment: Vercel
 - **Backend:** Python  - Django, AWS(Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Görsellerin metine çevirilmesi)
-- **Database:** Postgres (PostgreSQL)
+- **Database:** Postgres (PostgreSQL), Redis
 - **Map Source:** Leaflet
 - **Data Scraping:** Twitter, Whatsapp, Telegram, depremyardim.com
 
