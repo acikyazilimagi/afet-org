@@ -3,6 +3,9 @@
 ## Veri Girişi
 - https://www.depremyardim.com/
 
+- Image to Text Adres OCR
+  - Local: https://github.com/cobanov/deprem-ocr
+  - Online: https://huggingface.co/spaces/mertcobanov/deprem-ocr
 
 ## Afet Harita Projesi
 
