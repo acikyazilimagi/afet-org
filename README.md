@@ -2,7 +2,7 @@
 
 ## Afet Harita Projesi
 
-Yayına alınan adresler:
+### Yayına alınan adresler
 - https://www.depremyardim.com/
 - https://afetharita.com/
 - API: https://api.afetharita.com/
@@ -31,7 +31,7 @@ https://docs.google.com/spreadsheets/d/1bZ49eLf2ymisuvPwdOFPmcbasnOVJr5-swLGvhyS
 Workflow:  
 https://excalidraw.com/#room=0571f83dc3c3d9eb9fb8,IdGc97dCxjdYsVsZ2NTEiQ
 
-Kullanılacak Teknoloji ve Sistemler:  
+### Kullanılan Teknoloji ve Sistemler
 - **Frontend:**  Next.js, React / Deployment: Vercel
 - **Backend:** Python  - Django, AWS(Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Görsellerin metine çevirilmesi)
 - **Database:** Postgres (PostgreSQL)
@@ -41,7 +41,9 @@ Kullanılacak Teknoloji ve Sistemler:
 
 ## Ben İyiyim Projesi
 
-Yayına alınan adresler:
+### Yayına alınan adresler:
 - http://beniyiyim.com/
+
+### Kullanılan Teknoloji ve Sistemler
 
 Google Form, Google Docs (Basit inputlardan oluşan durum bildirimi için form)
