@@ -31,6 +31,7 @@
 - [Workflow](https://excalidraw.com/#room=0571f83dc3c3d9eb9fb8,IdGc97dCxjdYsVsZ2NTEiQ)
 - Veriler
   - [Bazı çekilen Tweetler](https://docs.google.com/spreadsheets/d/1GX_37xMMvU-lcMz4XI0uLYPUV6LiZtn9EZOGSwqPuZA)
+  - [depremyardim.com-json-data](https://www.depremyardim.com/json.php)
 
 ### Kullanılan Teknoloji ve Sistemler
 - **Frontend:**  Next.js, React / Deployment: Vercel
