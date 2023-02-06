@@ -1,9 +1,12 @@
 # Deprem Yardım
 
+## Veri Girişi
+- https://www.depremyardim.com/
+
+
 ## Afet Harita Projesi
 
 ### Yayına alınan adresler
-- https://www.depremyardim.com/
 - https://afetharita.com/
 - API: https://api.afetharita.com/
 
