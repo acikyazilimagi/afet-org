@@ -14,6 +14,9 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 
 - https://afetharita.com/
 - API: https://api.afetharita.com/
+- API (Yapay Zeka) Login : https://zekai.co/api/v1/login/
+- API (Yapay Zeka) Prompt : https://zekai.co/author-api/v1/submit-text
+
 
 ### Genel bilgilendirme ve bağlantılar
 
