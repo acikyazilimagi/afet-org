@@ -1,6 +1,6 @@
 # Deprem yardım projesi Twitter bot projesi dökümantasyonu
 
-Bu proje anahtar kelimelere göre yardım isteyen kişilerin twitlerinibulup retweet eden bir proje.
+Bu proje anahtar kelimelere göre yardım isteyen kişilerin twitlerini bulup retweet eden bir proje.
 
 ## Bağımlılıklar
 
