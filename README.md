@@ -1,14 +1,17 @@
 # Deprem Yardım Projesi
 
+[ENGLISH VERSION](README.en.md)
+
 Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklardan gelen tüm yardım çağrılarını topluyoruz ve bu veriyi sahada kullanılmak üzere anlamlı, rafine hale getiriyoruz. Amacımız bilgi teknolojilerini kullanarak ilgili kurum ve STK'lara yardımcı olmak ve afet zamanlarında açık bir veri platformu sağlamak.
 
-
 ## Veri Girişi
+
 - https://www.depremyardim.com/
 
 ## Afet Harita Projesi
 
 ### Yayına alınan adresler
+
 - https://afetharita.com/
 - API: https://api.afetharita.com/
 
@@ -53,6 +56,7 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
   - [Veri Toplayıcılar](https://docs.google.com/spreadsheets/d/11oiJTFlDLKd7Ykuib4q4J9UCZ3QvB3SgCTrrXISz484/edit) (Google Spradsheets)
 
 ### Kullanılan Teknoloji ve Sistemler
+
 - **Frontend:**
   - Next.js 
   - React / Deployment: Vercel
@@ -77,14 +81,15 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 Bu proje basit bir şekilde ad,soyad adres alarak yardım istemenizi veya ben iyiyim demenizi sağlar. Şuan kullanımda.
 
 ### Yayına alınan adresler
+
 - http://beniyiyim.com/
 
-
 ### Genel bilgilendirme ve bağlantılar
+
 - [Trello](https://trello.com/b/nSajc3v7/ben-i%CC%87yiyim-app)
 
-
 ### Kullanılan Teknoloji ve Sistemler
+
 - Google Form, Google Docs (Basit inputlardan oluşan durum bildirimi için form)
 
 ## Yardım Ağı Projesi
@@ -92,9 +97,11 @@ Bu proje basit bir şekilde ad,soyad adres alarak yardım istemenizi veya ben iy
 Bu proje alt projelerden(servislerden) oluşmakta, amacı yardıma ihtiyacı olanların verilerini botlar ile çekmek ve ai aracılığı ile adres bilgilerini belirleyip haritada işaretlemek.
 
 ### Yayına alınan adresler
+
 - Henüz belirlenmedi!
 
 ### Genel bilgilendirme ve bağlantılar
+
 - [Workflow](https://excalidraw.com/#room=b09286c9041a10c59719,JnU6aU-5IAvXhmTEkYW2IA)
 - [Tasarım süreci](https://www.figma.com/file/ggMF14osmhGOvKvS0VKuvQ/Yard%C4%B1m-A%C4%9F%C4%B1-App?node-id=0%3A1&t=lnWdXzRpwUmBurZd-1) (Figma)
 - [Trello Davet](https://trello.com/invite/b/cU4C34JQ/ATTI6f42a0a0396fdb62e570d423d8fc3e930962B558/deprem-yardim-agis)
@@ -104,12 +111,15 @@ Bu proje alt projelerden(servislerden) oluşmakta, amacı yardıma ihtiyacı ola
   - [yardim-agi-firebase](https://github.com/acikkaynak/yardim-agi-firebase)
 
 ### Kullanılan Teknoloji ve Sistemler
+
 - Flutter (Web)
 - Google Firebase & Lambda (Cloud Function) & Firestore
 
 ## 3.Parti geliştirmeler
 
 ### Image to Text Adres OCR
+
 Resimde yer alan adres bilgilerini yazıya çevirme kütüphanesi
+
 - Kullanılan Teknolojiler: Python
   - [Github Repo](https://github.com/cobanov/deprem-ocr) [(Canlı)](https://huggingface.co/spaces/mertcobanov/deprem-ocr)
