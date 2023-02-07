@@ -53,7 +53,7 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 - Veriler
   - [Bazı çekilen Tweetler](https://docs.google.com/spreadsheets/d/1GX_37xMMvU-lcMz4XI0uLYPUV6LiZtn9EZOGSwqPuZA)
   - [depremyardim.com-json-data](https://www.depremyardim.com/json.php)
-  - [Veri Toplayıcılar](https://docs.google.com/spreadsheets/d/11oiJTFlDLKd7Ykuib4q4J9UCZ3QvB3SgCTrrXISz484/edit) (Google Spradsheets)
+  - [Veri Toplayıcılar](https://docs.google.com/spreadsheets/d/11oiJTFlDLKd7Ykuib4q4J9UCZ3QvB3SgCTrrXISz484/edit) (Google Spreadsheets)
 
 ### Kullanılan Teknoloji ve Sistemler
 
