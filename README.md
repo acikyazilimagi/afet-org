@@ -29,8 +29,8 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
     - Python (Django)
     - Postgres (PostgreSQL)
     - Redis
-    - AWS (Elastic Load Balancer, ECS, AWS Fargate)
-    - OpenAI (Görsellerin metine çevirilmesi)
+    - AWS (Elastic Load Balancer, ECS, AWS Fargate) : Bu hizmetler için AWS tarafında destek sağlanıyor.
+    - OpenAI (Görsellerin metine çevirilmesi) : OpenAI çalışanları iletişim biraz yavaş başka bir alternatif kullanılabilir.
   - [beniyiyim.com-frontend](https://github.com/acikkaynak/ben-iyiyim-frontend)
     - Google Forms
     - Spreadsheet
@@ -74,6 +74,7 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
   - depremyardim.com
 
 ## Ben İyiyim Projesi
+Bu proje basit bir şekilde ad,soyad adres alarak yardım istemenizi veya ben iyiyim demenizi sağlar. Şuan kullanımda.
 
 ### Yayına alınan adresler
 - http://beniyiyim.com/
@@ -88,11 +89,13 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 
 ## Yardım Ağı Projesi
 
+Bu proje alt projelerden(servislerden) oluşmakta, amacı yardıma ihtiyacı olanların verilerini botlar ile çekmek ve ai aracılığı ile adres bilgilerini belirleyip haritada işaretlemek.
+
 ### Yayına alınan adresler
 - Henüz belirlenmedi!
 
 ### Genel bilgilendirme ve bağlantılar
-- [Workflow](https://excalidraw.com/#room=b09286c9041a10c59719,JnU6aU-5IAvXhmTEkYW2IA)
+- [Workflow](https://excalidraw.com/#room=b09286c9041a10c59719,JnU6aU-5IAvXhmTEkYW2IA) 
 - [Tasarım süreci](https://www.figma.com/file/ggMF14osmhGOvKvS0VKuvQ/Yard%C4%B1m-A%C4%9F%C4%B1-App?node-id=0%3A1&t=lnWdXzRpwUmBurZd-1) (Figma)
 - [Trello Davet](https://trello.com/invite/b/cU4C34JQ/ATTI6f42a0a0396fdb62e570d423d8fc3e930962B558/deprem-yardim-agis)
 - [Trello](https://trello.com/b/RzM8Tia3/yard%C4%B1m-agi-app)
