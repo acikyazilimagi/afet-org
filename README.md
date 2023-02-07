@@ -24,18 +24,29 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 - [GitHub Depoları](https://github.com/orgs/acikkaynak/repositories)
   - [afetharita.com-frontend](https://github.com/acikkaynak/deprem-yardim-frontend)
     Kullanılan Teknoloji ve Sistemler:
-    - Next.js, React, Leaflet, Vercel
+    - Next.js
+    - React 
+    - Leaflet
+    - Vercel
   - [afetharita.com-backend](https://github.com/acikkaynak/deprem-yardim-backend)
-    - Python (Django), Postgres (PostgreSQL), Redis, AWS (Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Görsellerin metine çevirilmesi)
+    - Python (Django)
+    - Postgres (PostgreSQL)
+    - Redis
+    - AWS (Elastic Load Balancer, ECS, AWS Fargate) : Bu hizmetler için AWS tarafında destek sağlanıyor.
+    - OpenAI (Görsellerin metine çevirilmesi) : OpenAI çalışanları iletişim biraz yavaş başka bir alternatif kullanılabilir.
   - [beniyiyim.com-frontend](https://github.com/acikkaynak/ben-iyiyim-frontend)
-    - Google Forms, Spreadsheet
+    - Google Forms
+    - Spreadsheet
   - [afetharita.com-data](https://github.com/acikkaynak/deprem-yardim-data)
     - Güncellenecek..
   - [afetharita.com-whatsapp-entegrasyon](https://github.com/acikkaynak/deprem-yardim-whatsapp)
     - Güncellenecek..
-  - [afetharita.com-twitter-bot](https://github.com/acikkaynak/afet-yardim-twitter-bot)
-    Belirlenmiş olan Twit ID 'lerine RT atmak için yazılacak bot
+  - [afetharita.com-twitter-bot](https://github.com/acikkaynak/afet-yardim-twitter-bot) : Belirlenmiş olan Twit ID 'lerine RT atmak için yazılacak bot
     - Go
+      - Twitter API
+      - github.com/dghubble/go-twitter/twitter
+      - github.com/dghubble/oauth1
+      - net/http
 - [Twitter veri çekme için Keyword (Anahtar Kelime) Listesi](https://docs.google.com/spreadsheets/d/1_w1akARJIKzCxMQnlv9ZObM7m-yXu_XJn-_SvjR6j74/edit)
 - [Yardım edebilecek olanların iletişim ve skill bilgileri](https://docs.google.com/spreadsheets/d/1bZ49eLf2ymisuvPwdOFPmcbasnOVJr5-swLGvhySIHI)
 - [Workflow](https://excalidraw.com/#room=0571f83dc3c3d9eb9fb8,IdGc97dCxjdYsVsZ2NTEiQ)
@@ -46,13 +57,28 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 
 ### Kullanılan Teknoloji ve Sistemler
 
-- **Frontend:** Next.js, React / Deployment: Vercel
-- **Backend:** Python - Django, AWS(Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Görsellerin metine çevirilmesi), Go
-- **Database:** Postgres (PostgreSQL), Redis
-- **Map Source:** Leaflet
-- **Data Scraping:** Twitter, Whatsapp, Telegram, depremyardim.com
+- **Frontend:**
+  - Next.js 
+  - React / Deployment: Vercel
+- **Backend:** 
+  - Python
+  - Django, 
+  - AWS(Elastic Load Balancer, ECS, AWS Fargate), 
+  - OpenAI (Görsellerin metine çevirilmesi), 
+  - Go
+- **Database:** 
+  - Postgres (PostgreSQL)
+  - Redis
+- **Map Source:** 
+  - Leaflet
+- **Data Scraping:** 
+  - Twitter
+  - Whatsapp
+  - Telegram
+  - depremyardim.com
 
 ## Ben İyiyim Projesi
+Bu proje basit bir şekilde ad,soyad adres alarak yardım istemenizi veya ben iyiyim demenizi sağlar. Şuan kullanımda.
 
 ### Yayına alınan adresler
 
@@ -67,6 +93,8 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
 - Google Form, Google Docs (Basit inputlardan oluşan durum bildirimi için form)
 
 ## Yardım Ağı Projesi
+
+Bu proje alt projelerden(servislerden) oluşmakta, amacı yardıma ihtiyacı olanların verilerini botlar ile çekmek ve ai aracılığı ile adres bilgilerini belirleyip haritada işaretlemek.
 
 ### Yayına alınan adresler
 
