@@ -40,13 +40,13 @@ We collect all calls for help from different sources such as Twitter, Instagram,
 - Data
   - [Some withdrawn Tweets](https://docs.google.com/spreadsheets/d/1GX_37xMMvU-lcMz4XI0uLYPUV6LiZtn9EZOGSwqPuZA)
   - [depremyardim.com-json-data](https://www.depremyardim.com/json.php)
-  - [Data Collectors](https://docs.google.com/spreadsheets/d/11oiJTFlDLKd7Ykuib4q4J9UCZ3QvB3SgCTrrXISz484/edit) (Google Spradsheets)
+  - [Data Collectors](https://docs.google.com/spreadsheets/d/11oiJTFlDLKd7Ykuib4q4J9UCZ3QvB3SgCTrrXISz484/edit) (Google Spreadsheets)
 
 ### Technology and Systems Used
 
 - **Frontend:** Next.js, React / Deployment: Vercel
-- Backend:\*\* Python - Django, AWS (Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Visualization to text), Go
-- Database:\*\* Postgres (PostgreSQL), Redis
+- **Backend:** Python - Django, AWS (Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Visualization to text), Go
+- **Database:** Postgres (PostgreSQL), Redis
 - **Map Source:** Leaflet
 - **Data Scraping:** Twitter, Whatsapp, Telegram, depremyardim.com
 
