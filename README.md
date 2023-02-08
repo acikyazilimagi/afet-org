@@ -47,6 +47,9 @@ Twitter, Instagram, Whatsapp ve çeşitli web siteleri gibi farklı kaynaklarda
       - github.com/dghubble/go-twitter/twitter
       - github.com/dghubble/oauth1
       - net/http
+  - [depremadres AI](https://github.com/acikkaynak/depremadres-intent-classification-v0)
+    - Python
+      - Güncellenecek..
 - [Twitter veri çekme için Keyword (Anahtar Kelime) Listesi](https://docs.google.com/spreadsheets/d/1_w1akARJIKzCxMQnlv9ZObM7m-yXu_XJn-_SvjR6j74/edit)
 - [Yardım edebilecek olanların iletişim ve skill bilgileri](https://docs.google.com/spreadsheets/d/1bZ49eLf2ymisuvPwdOFPmcbasnOVJr5-swLGvhySIHI)
 - [Workflow](https://excalidraw.com/#room=0571f83dc3c3d9eb9fb8,IdGc97dCxjdYsVsZ2NTEiQ)
