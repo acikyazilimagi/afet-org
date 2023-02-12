@@ -83,6 +83,11 @@ Bu proje basit bir şekilde ad,soyad adres alarak yardım istemenizi veya ben iy
 ### Yayına alınan adresler
 
 - http://beniyiyim.com/
+- https://isaozler.grafana.net/dashboard/snapshot/OGMLNdBOFO0pVuUhqRUDkaTe4TyVDL09?orgId=1&refresh=1h&kiosk=tv
+  - live-updates (1 saate ayarlı)
+  - filtrelenmiş veri (is_resolved=false
+
+ __Not: dashboard'u kendi hesabım altında açtığım için, link `isaozler.grafana.net` olarak  link atanıyor. `/project/grafana-dashboard.json` dosyasını kullanarak bu dashboard'u istediğiniz hesap altında import yapabilirsiniz.__
 
 ### Genel bilgilendirme ve bağlantılar
 
