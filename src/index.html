@@ -50,7 +50,7 @@
         </div>
 
         <div class="field">
-            <div class="title">
+            <div class="title-container">
                 Websiteleri
             </div>
             <div class="content-buttons">
@@ -75,7 +75,7 @@
             </div>
         </div>
         <div class="field">
-            <div class="title">
+            <div class="title-container">
                 Afet.org
             </div>
             <div class="content">
@@ -85,8 +85,8 @@
             </div>
         </div>
         <div class="field">
-            <div class="title">
-                Açık Yazılım Ağı (AYA) - <a href="https://twitter.com/acikyazilimagi">@acikyazilimagi</a>
+            <div class="title-container">
+                Açık Yazılım Ağı (AYA) <a href="https://twitter.com/acikyazilimagi">@acikyazilimagi</a>
             </div>
             <div class="content">
                 Bizler yazılım sektöründe halihazırda profesyonel olarak yer alan gönüllüleriz.
@@ -111,7 +111,7 @@
             </div>
         </div>
         <div class="field">
-            <div class="title">
+            <div class="title-container">
                 Projelerimiz
             </div>
             <div class="content">
@@ -232,6 +232,13 @@
                 </ul>
             </div>
         </div>
+
+        <style>
+ 
+          </style>
+          
+          
+
         <div class="light-modes-container">
             <label class="light-modes">
                 <input class='toggle-checkbox' type='checkbox' id="color-mode"></input>
@@ -286,7 +293,7 @@
     });
 
     function setLanguage(language) {
-        const titles = document.getElementsByClassName("title");
+        const titles = document.getElementsByClassName("title-container");
         titles[0].textContent = translation[language].title1;
         titles[3].textContent = translation[language].title4;
 
