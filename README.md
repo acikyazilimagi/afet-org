@@ -25,17 +25,18 @@ We collect all calls for help from different sources such as Twitter, Instagram,
   - [afetharita.com-frontend](https://github.com/acikkaynak/deprem-yardim-frontend)
     Technology and Systems Used:
     - Next.js, React, Leaflet, Vercel
-  - [afetharita.com-backend](https://github.com/acikkaynak/deprem-yardim-backend)
-    - Python (Django), Postgres (PostgreSQL), Redis, AWS (Elastic Load Balancer, ECS, AWS Fargate), OpenAI (translation of visuals to text)
+  - [afetharita.com-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+    - Go (Fiber, Pgxpool, Jsoniter, Go-Redis, Sarama, Fasthttp), Kafka, PostgreSQL, Redis, AWS (Elastic Load Balancer, ECS, AWS Fargate)
   - [beniyiyim.com-frontend](https://github.com/acikkaynak/ben-iyiyim-frontend)
     - Google Forms, Spreadsheet
   - [afetharita.com-data](https://github.com/acikkaynak/deprem-yardim-data)
     - To be updated...
   - [afetharita.com-whatsapp-integration](https://github.com/acikkaynak/deprem-yardim-whatsapp)
     - To be updated...
-  - [afetharita.com-twitter-bot](https://github.com/acikkaynak/afet-yardim-twitter-bot)
-    The bot to be written to RT to the specified Twit IDs
+  - [afetharita.com-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
     - Go
+
+- [Backend Architecture and Docs](https://docs.google.com/document/d/1RxTHmxblYkum0HJLWkOsv98nSa8r4dLMsu97Drr-xVg/)
 - [Keyword List for Twitter data extraction](https://docs.google.com/spreadsheets/d/1_w1akARJIKzCxMQnlv9ZObM7m-yXu_XJn-_SvjR6j74/edit)
 - [Contact and skill information for those who can help](https://docs.google.com/spreadsheets/d/1bZ49eLf2ymisuvPwdOFPmcbasnOVJr5-swLGvhySIHI)
 - [Workflow](https://excalidraw.com/#room=0571f83dc3c3d9eb9fb8,IdGc97dCxjdYsVsZ2NTEiQ)
@@ -47,8 +48,8 @@ We collect all calls for help from different sources such as Twitter, Instagram,
 ### Technology and Systems Used
 
 - **Frontend:** Next.js, React / Deployment: Vercel
-- **Backend:** Python - Django, AWS (Elastic Load Balancer, ECS, AWS Fargate), OpenAI (Visualization to text), Go
-- **Database:** Postgres (PostgreSQL), Redis
+- **Backend:** Go - Fiber, AWS (Elastic Load Balancer, ECS, AWS Fargate)
+- **Database:** Postgres (PostgreSQL), Redis, ElasticSearch
 - **Map Source:** Leaflet
 - **Data Scraping:** Twitter, Whatsapp, Telegram, depremyardim.com
 
