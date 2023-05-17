@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
@@ -7,16 +7,16 @@
     --dark-color: #292c35;
 }
 
-body{
+body {
     font-family: Archivo, system-ui;
     transition: background-color 0.5s;
 }
 
-.logo{
+.logo {
     width: 50%;
 }
 
-.filter-light{
+.filter-light {
     width: 50%;
     filter: invert(12%) sepia(9%) saturate(1330%) hue-rotate(187deg) brightness(96%) contrast(85%);
 }
@@ -25,18 +25,17 @@ body{
     filter: invert(100%) sepia(100%) saturate(2%) hue-rotate(138deg) brightness(103%) contrast(101%);
 }
 
-header{
-    width: 100%;
-    text-align: center;
-    /* margin: 2em 0; */
-}
-
-footer{
+header {
     width: 100%;
     text-align: center;
 }
 
-.container{
+footer {
+    width: 100%;
+    text-align: center;
+}
+
+.container {
     width: 50%;
     margin: auto;
     display: flex;
@@ -45,7 +44,7 @@ footer{
     margin-bottom: 5em;
 }
 
-.field{
+.field {
     display: grid;
     grid-gap: 50px;
     grid-template-columns: 20% 80%;
@@ -57,7 +56,7 @@ footer{
     font-family: Newsreader, Georgia, Times, Times New Roman, serif;
 }
 
-.button{
+.button {
     text-decoration: none;
     display: inline-block;
     color: white;
@@ -69,13 +68,13 @@ footer{
     transition: color 0.3s, background-color 0.3s, border-color 0.5s;
 }
 
-.button:hover{
+.button:hover {
     color: black;
     background-color: white;
     border-color: var(--dark-color);
 }
 
-.content{
+.content {
     text-align: justify;
 }
 
@@ -94,12 +93,12 @@ ul {
 
 /* Dark Mode */
 
-.body-dark-mode{
+.body-dark-mode {
     background-color: var(--dark-color);
     color: white;
 }
 
-.button-dark-mode{
+.button-dark-mode {
     background-color: white;
     color: black;
     border-color: var(--dark-color);
@@ -109,112 +108,16 @@ ul {
     background-color: var(--dark-color);
     border-color: white;
     color: white;
-}
-
-/* Color theme button */
-
-.toggle-checkbox {
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
-    height: 0;
-    width: 0;
-}
-
-.toggle-slot {
-    position: relative;
-    height: 10em;
-    width: 20em;
-    border: 5px solid #e4e7ec;
-    border-radius: 10em;
-    background-color: white;
-    transition: background-color 250ms;
-}
-
-.toggle-checkbox:checked~.toggle-slot {
-    background-color: var(--dark-color);
-}
-
-.toggle-button {
-    transform: translate(11.75em, 1.75em);
-    position: absolute;
-    height: 6.5em;
-    width: 6.5em;
-    border-radius: 50%;
-    background-color: white;
-    box-shadow: inset 0px 0px 0px 0.75em var(--dark-color);
-    transition: background-color 250ms, border-color 250ms, transform 500ms cubic-bezier(.26, 2, .46, .71);
-}
-
-.toggle-checkbox:checked~.toggle-slot .toggle-button {
-    background-color: var(--dark-color);
-    box-shadow: inset 0px 0px 0px 0.75em white;
-    transform: translate(1.75em, 1.75em);
-}
-
-.sun-icon {
-    position: absolute;
-    height: 6em;
-    width: 6em;
-    color: var(--dark-color);
-}
-
-.sun-icon-wrapper {
-    position: absolute;
-    height: 6em;
-    width: 6em;
-    opacity: 1;
-    transform: translate(2em, 2em);
-    transform-origin: 50% 50%;
-    transition: opacity 150ms, transform 500ms cubic-bezier(.26, 2, .46, .71);
-}
-
-.toggle-checkbox:checked~.toggle-slot .sun-icon-wrapper {
-    opacity: 0;
-    transform: translate(3em, 2em);
-}
-
-.moon-icon {
-    position: absolute;
-    height: 6em;
-    width: 6em;
-    color: white;
-}
-
-.moon-icon-wrapper {
-    position: absolute;
-    height: 6em;
-    width: 6em;
-    opacity: 0;
-    transform: translate(11em, 2em);
-    transform-origin: 50% 50%;
-    transition: opacity 150ms, transform 500ms cubic-bezier(.26, 2.5, .46, .71);
-}
-
-.toggle-checkbox:checked~.toggle-slot .moon-icon-wrapper {
-    opacity: 1;
-    transform: translate(12em, 2em);
-}
-
-.light-modes{
-    font-size: 3px;
-    float: right;
-}
-
-.light-modes-container{
-    width: 100%;
-    margin-top: 15px;
-    display: block;
 }
 
 /* Dark Mode */
 
-.body-dark-mode{
+.body-dark-mode {
     background-color: var(--dark-color);
     color: white;
 }
 
-.button-dark-mode{
+.button-dark-mode {
     background-color: white;
     color: black;
     border-color: var(--dark-color);
@@ -226,7 +129,7 @@ ul {
     color: white;
 }
 
-.link-dark-mode:hover{
+.link-dark-mode:hover {
     color: white;
 }
 
@@ -248,6 +151,7 @@ ul {
     border-radius: 10em;
     background-color: white;
     transition: background-color 250ms;
+    margin-left: 15px;
 }
 
 .toggle-checkbox:checked~.toggle-slot {
@@ -315,12 +219,12 @@ ul {
     transform: translate(12em, 2em);
 }
 
-.light-modes{
+.light-modes {
     font-size: 3px;
     float: right;
 }
 
-.light-modes-container{
+.light-modes-container {
     width: 100%;
     margin-top: 15px;
     display: block;
